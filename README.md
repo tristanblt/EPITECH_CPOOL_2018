@@ -9,4 +9,6 @@ Bistromatic made with :
   - Nathan Quentel
   - Kenan Barbot
 
+(les Tek0 trichez pas on vous voit)
+
 Made with <3
