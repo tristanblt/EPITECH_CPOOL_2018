@@ -1,2 +1,5 @@
 # EPITECH_CPOOL_2018
-That was wonderful
+
+Day 01 to 11 and Bistromatic
+
+Made with <3
